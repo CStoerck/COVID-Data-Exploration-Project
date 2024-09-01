@@ -22,7 +22,7 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Project Overview
-This project provides a comprehensive exploration of the global spread of COVID-19 from 2020 to 2024. The analysis presents key metrics, trends, and insights into the pandemic’s impact on different continents and countries. The project includes an interactive dashboard that allows users to filter data by country or continent, offering a detailed view of how the virus affected various regions over time.
+This project provides a comprehensive exploration of the global spread of COVID-19. The analysis presents key metrics, trends, and insights into the pandemic’s impact on different regions. The project includes an interactive dashboard that allows users to filter data by country or continent, offering a detailed view of how the virus affected various regions over time.
 
 ![covid-dashboard-preview](https://github.com/user-attachments/assets/26c40fd0-d80b-4a7e-8953-17335d172b12)
 
@@ -33,7 +33,7 @@ This project provides a comprehensive exploration of the global spread of COVID-
 - To analyze the global spread of COVID-19 and its impact on different regions.
 - To visualize key metrics such as total cases, total deaths, death percentage, and infection rates.
 - To provide an interactive dashboard that allows users to filter data by country or continent.
-- To track the progression of COVID-19 from 2020 to 2024 through cumulative and time-based visualizations.
+- To track the progression of COVID-19 through cumulative and time-based visualizations.
 
 ## Tools and Technologies
 - **Excel**: Used for data cleaning, preparation, and preliminary analysis. Excel was instrumental in handling missing values, data formatting, and initial exploratory analysis.
@@ -58,8 +58,8 @@ The dashboard was designed to be both informative and user-friendly, providing a
 - **Global Numbers** - A summary section displaying total cases, total deaths, and death percentage globally, offering a quick snapshot of the pandemic's overall impact.
 - **Total Deaths by Continent** - A bar chart visualizing the total number of COVID-19 deaths across different continents, highlighting the regions most affected.
 - **Percentage of Population Infected** - A world map showing the percentage of the population infected in each country, providing a geographic perspective on the virus's spread.
-- **Infection Rate Over Time** - A line chart tracking the global infection rate from 2020 to 2024, illustrating key trends and pandemic waves.
-- **Total COVID-19 Cases Over Time** - A cumulative line chart displaying the total number of COVID-19 cases globally over the same period.
+- **Infection Rate Over Time** - A line chart tracking the global infection rate, illustrating key trends and pandemic waves.
+- **Total COVID-19 Cases Over Time** - A cumulative line chart displaying the total number of COVID-19 cases globally.
 - **Total COVID-19 Deaths Over Time** - A cumulative line chart showing the total number of COVID-19 deaths, offering insight into the pandemic's mortality trends.
 
 ## Interactive Visualizations
@@ -86,10 +86,10 @@ A cumulative line chart showing the total number of COVID-19 cases reported glob
 A cumulative line chart tracking the total number of COVID-19 deaths globally over the same period. This chart can also be filtered by country or continent, providing insights into mortality trends in different regions.
 
 ## Key Insights
-* **Global Impact**: The data shows significant variation in the impact of COVID-19 across different continents, with [insert continent] experiencing the highest death toll.
-* **Infection Trends**: The infection rate peaked during [insert year], corresponding with the largest waves of the pandemic. The data also reveals significant differences in infection rates between continents.
+* **Global Impact**: The data shows significant variation in the impact of COVID-19 across different continents, with Europe experiencing the highest death toll.
+* **Infection Trends**: The infection rate peaked during 2022, corresponding with the largest waves of the pandemic. The data also reveals significant differences in infection rates between continents.
 * **Mortality Trends**: Despite the increase in total cases, the death percentage has shown a decline over time, likely due to improved healthcare responses and vaccination efforts.
-* **Geographic Spread**: The world map visualization indicates that certain regions, such as [insert region], had higher infection rates, possibly due to factors such as population density and healthcare infrastructure.
+* **Geographic Spread**: The world map visualization indicates that European countries had higher infection rates, possibly due to factors such as population density and healthcare infrastructure.
 
 ## Challenges and Solutions
 
