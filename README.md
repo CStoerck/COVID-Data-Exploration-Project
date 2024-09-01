@@ -103,7 +103,7 @@ The large volume of data required efficient processing and management. SQL was u
 Developing interactive and intuitive visualizations for a global dataset required careful design and implementation. Tableau’s advanced features were utilized to create a dashboard that is both user-friendly and informative, allowing users to explore the data in a flexible manner.
 
 ## Conclusion
-This project provides a thorough exploration of the COVID-19 pandemic, offering valuable insights into its global spread, impact, and progression over time. The interactive dashboard allows users to filter data by country or continent, providing a detailed view of the pandemic's effects on different regions. The combination of data cleaning, SQL querying, and Tableau visualization has resulted in a comprehensive analysis that can serve as a valuable resource for understanding the pandemic’s trajectory.
+This project provides a thorough exploration of the COVID-19 pandemic, offering valuable insights into its global spread, impact, and progression over time. The interactive dashboard allows users to filter data by country or continent, providing a detailed view of the pandemic's effects on different regions. The combination of data cleaning, SQL querying, and Tableau visualization has resulted in a comprehensive analysis that can serve as a resource for understanding the pandemic’s trajectory.
 
 ## Future Work
 - **Incorporate Vaccination Data**: Future iterations of this project could include vaccination data to analyze the relationship between vaccination rates and infection/death rates.
