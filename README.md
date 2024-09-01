@@ -64,42 +64,42 @@ The dashboard was designed to be both informative and user-friendly, providing a
 
 ## Interactive Visualizations
 
-### Global Numbers
+#### Global Numbers
 This section provides a high-level overview of the pandemic's global impact:
 - **Total Cases**: The cumulative number of confirmed COVID-19 cases worldwide.
 - **Total Deaths**: The cumulative number of deaths attributed to COVID-19.
 - **Death Percentage**: The ratio of deaths to total cases, providing insight into the virus's lethality.
 
-### Total Deaths by Continent
+#### Total Deaths by Continent
 A bar chart that visualizes the total number of COVID-19 deaths across different continents. This chart allows users to compare the impact of the pandemic on various regions.
 
-### Percentage of Population Infected
+#### Percentage of Population Infected
 A world map highlighting the percentage of each country's population infected by COVID-19. This interactive map can be filtered by country or continent, offering a detailed view of the virus's spread across different regions.
 
-### Infection Rate Over Time
+#### Infection Rate Over Time
 A line chart that tracks the global infection rate from 2020 to 2024. This chart allows users to filter the data by country or continent, making it easy to explore trends in specific regions.
 
-### Total COVID-19 Cases Over Time
+#### Total COVID-19 Cases Over Time
 A cumulative line chart showing the total number of COVID-19 cases reported globally from 2020 to 2024. Users can filter this chart by country or continent to analyze the growth trajectory of the pandemic in specific areas.
 
-### Total COVID-19 Deaths Over Time
+#### Total COVID-19 Deaths Over Time
 A cumulative line chart tracking the total number of COVID-19 deaths globally over the same period. This chart can also be filtered by country or continent, providing insights into mortality trends in different regions.
 
 ## Key Insights
-* **Global Impact**: The data shows significant variation in the impact of COVID-19 across different continents, with Europe experiencing the highest death toll.
-* **Infection Trends**: The infection rate peaked during 2022, corresponding with the largest waves of the pandemic. The data also reveals significant differences in infection rates between continents.
-* **Mortality Trends**: Despite the increase in total cases, the death percentage has shown a decline over time, likely due to improved healthcare responses and vaccination efforts.
-* **Geographic Spread**: The world map visualization indicates that European countries had higher infection rates, possibly due to factors such as population density and healthcare infrastructure.
+- **Global Impact**: The data shows significant variation in the impact of COVID-19 across different continents, with Europe experiencing the highest death toll.
+- **Infection Trends**: The infection rate peaked during 2022, corresponding with the largest waves of the pandemic. The data also reveals significant differences in infection rates between continents.
+- **Mortality Trends**: Despite the increase in total cases, the death percentage has shown a decline over time, likely due to improved healthcare responses and vaccination efforts.
+- **Geographic Spread**: The world map visualization indicates that European countries had higher infection rates, possibly due to factors such as population density and healthcare infrastructure.
 
 ## Challenges and Solutions
 
-### Data Consistency
+#### Data Consistency
 Ensuring data consistency across multiple sources was challenging. This issue was addressed by standardizing data formats and using SQL to validate and cross-check data from different sources.
 
-### Handling Large Datasets
+#### Handling Large Datasets
 The large volume of data required efficient processing and management. SQL was used for complex queries and aggregations, while Excel handled preliminary analysis and data cleaning tasks.
 
-### Creating Interactive Visualizations
+#### Creating Interactive Visualizations
 Developing interactive and intuitive visualizations for a global dataset required careful design and implementation. Tableau’s advanced features were utilized to create a dashboard that is both user-friendly and informative, allowing users to explore the data in a flexible manner.
 
 ## Conclusion
