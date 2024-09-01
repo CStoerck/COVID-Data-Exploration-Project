@@ -27,7 +27,7 @@ This project provides a comprehensive exploration of the global spread of COVID-
 ![covid-dashboard-preview](https://github.com/user-attachments/assets/26c40fd0-d80b-4a7e-8953-17335d172b12)
 
 [Link to SQL code](https://github.com/CStoerck/COVID-Data-Exploration-Project/blob/07db485c40443658d094c95513c830ae8fbebb0e/COVID%20Project%20SQL%20Queries.sql)
-[Link to visualization](https://public.tableau.com/app/profile/cody.stoerck/viz/COVIDDashboard_17066628186710/Dashboard1
+[Link to visualization](https://public.tableau.com/app/profile/cody.stoerck/viz/COVIDDashboard_17066628186710/Dashboard1)
 
 ## Objectives
 - To analyze the global spread of COVID-19 and its impact on different regions.
@@ -119,6 +119,6 @@ I would like to thank the data providers, including Johns Hopkins University, WH
 ---
 
 [Link to SQL code](https://github.com/CStoerck/COVID-Data-Exploration-Project/blob/07db485c40443658d094c95513c830ae8fbebb0e/COVID%20Project%20SQL%20Queries.sql)
-[Link to visualization](https://public.tableau.com/app/profile/cody.stoerck/viz/COVIDDashboard_17066628186710/Dashboard1
+[Link to visualization](https://public.tableau.com/app/profile/cody.stoerck/viz/COVIDDashboard_17066628186710/Dashboard1)
 
 
